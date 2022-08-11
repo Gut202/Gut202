@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gut202
+- 👋 Hi, I’m olayinka Temitope Omotayo
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning to improve my skills
 - 💞️ I’m looking to collaborate on software development
